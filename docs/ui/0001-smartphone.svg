@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 610" role="img" aria-label="Smartphone-Zeiterfassung mit Auftrag und Starttaste">
+<rect width="390" height="610" rx="20" fill="#f2f5f9"/>
+<g font-family="sans-serif" fill="#153451">
+<text x="22" y="42" font-size="23">Zeit erfassen</text>
+<text x="22" y="80" font-size="15">Kunde → Auftrag → Zeit → Rechnung</text>
+<rect x="18" y="105" width="354" height="115" rx="10" fill="white"/>
+<text x="32" y="135" font-size="15">Auftrag auswählen</text>
+<text x="32" y="167" font-size="20">A-026 · Gartenpflege</text>
+<text x="32" y="197" font-size="16">Erika Beispiel</text>
+<text x="26" y="260" font-size="16">Leistung: Gartenpflege</text>
+<text x="26" y="300" font-size="16">Abrechenbar: Ja</text>
+<rect x="22" y="327" width="346" height="60" rx="10" fill="#153451"/>
+<text x="131" y="364" font-size="21" fill="white">Zeit starten</text>
+<text x="26" y="428" font-size="17">Zeit manuell nachtragen</text>
+<text x="26" y="472" font-size="15">Nach Start: Pause · Stopp</text>
+<text x="26" y="505" font-size="15">Gespeichert erst nach Bestätigung</text>
+<rect x="0" y="550" width="390" height="60" fill="#dbe8f4"/>
+<text x="11" y="584" font-size="13">Übersicht   Aufträge   Zeit   Rechnungen   Mehr</text>
+</g></svg>

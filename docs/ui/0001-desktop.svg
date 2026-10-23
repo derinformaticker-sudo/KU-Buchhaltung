@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 450" role="img" aria-label="Desktop-Auftrag mit Kunde, Zeiten und Rechnungsentwurf">
+<rect width="960" height="450" fill="#f2f5f9"/>
+<rect width="175" height="450" fill="#153451"/>
+<g font-family="sans-serif" font-size="17" fill="white">
+<text x="18" y="38">Digitales Büro</text><text x="18" y="100">Übersicht</text><text x="18" y="143">Kunden</text><text x="18" y="186">Aufträge</text><text x="18" y="229">Zeit</text><text x="18" y="272">Rechnungen</text><text x="18" y="315">Termine</text><text x="18" y="358">Dokumente</text>
+</g>
+<g font-family="sans-serif" fill="#153451">
+<text x="200" y="38" font-size="15">Suche …                                      Geschäftsjahr 2026</text>
+<text x="200" y="90" font-size="25">A-026 · Gartenpflege</text>
+<text x="200" y="124" font-size="16">Musterkunde Erika Beispiel · Status: Aktiv</text>
+<rect x="200" y="150" width="725" height="55" rx="8" fill="white"/>
+<text x="215" y="184" font-size="16">Überblick     Zeiten     Termine     Dokumente     Rechnungen</text>
+<text x="215" y="242" font-size="19">Zeiten für diesen Auftrag</text>
+<text x="215" y="278" font-size="16">23.10.2026 · Gartenpflege · 2 h · Nicht abgerechnet</text>
+<rect x="215" y="303" width="220" height="45" rx="7" fill="#dbe8f4"/>
+<text x="233" y="331" font-size="16">Zeit starten</text>
+<rect x="458" y="303" width="300" height="45" rx="7" fill="#153451"/>
+<text x="474" y="331" font-size="16" fill="white">Rechnungsentwurf erstellen</text>
+<text x="215" y="396" font-size="15">Entwurf prüfen → Vorschau → Ausstellen → Zahlung erfassen</text>
+</g></svg>
